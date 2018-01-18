@@ -1,6 +1,6 @@
 # MediaPlayer
 Java/Eclipse
-This is an android application of Audio player.Its developed environment is eclipse.You can import the code into eclipse to start it. 
+This is an android application of Audio player.Its developed environment is eclipse.You can import the code into eclipse to start it. The .apk file is in the bin/ directory.
 
 The first page is as follows.
 
